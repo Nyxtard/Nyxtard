@@ -7,11 +7,11 @@
 
 ---
 
-### 🐱 Sobre mí
+### Sobre mí
 
-- 🎮 Me encantan los **videojuegos**.
-- 🎵 Me gusta mucho la **música**, y cantar… bueno, lo intento 🎤😅
-- 🐈 Y soy fan de los **gatos** (sí, el de la foto con gorro de rana 🐸).
+Soy Carlos Navío Salcedo, conocido en internet como **Nyxtard**. Creé **NyxVoice** para que cualquier persona pueda tener una voz clara en llamadas, streams y grabaciones, sin pagar ni tener una PC potente.
+
+Fuera de eso, me gustan los videojuegos 🎮, la música 🎵 y los gatos 🐈.
 
 ---
 
